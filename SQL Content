@@ -1,4 +1,4 @@
-SQL Statements for CRUD:
+SQL Statements:
 CRUD Statements Added Next
 
 Added DDL Statements:
@@ -9,3 +9,5 @@ Adding MERGE Statements:
 INSERT Statement
 UPDATE Statement
 DELETE Statement
+
+TRUNCATE is not a DML Statement
